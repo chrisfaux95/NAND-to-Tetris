@@ -1,0 +1,10 @@
+.DS_Store
+Resources
+nand2tetris.zip
+00
+demo
+tools
+
+*.out
+*.cmp
+*.tst
