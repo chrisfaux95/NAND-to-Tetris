@@ -8,3 +8,7 @@ tools
 *.out
 *.cmp
 *.tst
+
+Add.hack
+Max.hack
+Rect.hack
